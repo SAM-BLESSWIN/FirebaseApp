@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179073167858",
+    "firebase_url": "https://fir-unity-app-5c4e9-default-rtdb.firebaseio.com",
+    "project_id": "fir-unity-app-5c4e9",
+    "storage_bucket": "fir-unity-app-5c4e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179073167858:android:52283d454a7d1d6c2ffb6b",
+        "android_client_info": {
+          "package_name": "com.Lonewolfgames.FirebaseApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179073167858-aetdqdan5eo2dnukac784c06dickirlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpN4meBp5PrDS9nKqApobBiHQcCzv9RbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179073167858-aetdqdan5eo2dnukac784c06dickirlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
